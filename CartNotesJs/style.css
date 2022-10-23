@@ -1,0 +1,14 @@
+#container{
+    background-color: antiquewhite;
+    border-width: 1px;
+    border-color: rgb(204, 98, 207);
+    border-style: dashed;
+}
+.cart{
+    background-color: rgb(70, 221, 196);
+    border-width: 1px;
+    border-color: rgb(18, 151, 100);
+    border-style: ridge;
+    width: 300px;
+    margin: 10px;
+}
